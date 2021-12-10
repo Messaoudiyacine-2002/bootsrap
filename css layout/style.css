@@ -1,0 +1,23 @@
+img{
+height: 90vh;
+
+
+}
+
+body {
+    background-image: url('i7.jpg');
+    background-size: cover;
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+
+
+}
+
+.fooot {
+
+    background-color: rgba(0, 0, 0, 0.87);
+     display: flex;
+      justify-content: space-between;
+}
